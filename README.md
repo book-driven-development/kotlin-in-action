@@ -14,6 +14,6 @@
 [6장. 코틀린 타입 시스템](summary/chapter6.md)    
 [7장. 연산자 오버로딩과 기타 관례](summary/chapter7.md)     
 [8장. 고차 함수: 파라미터와 반환 값으로 람다 사용](summary/chapter8.md)  
-9장. 제네릭스  
+[9장. 제네릭스](summary/chapter9.md)   
 10장. 애노테이션과 리플렉션  
 11장. DSL 만들기  
