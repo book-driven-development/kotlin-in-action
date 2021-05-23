@@ -6,6 +6,29 @@
 
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
+<!-- code_chunk_output -->
+
+- [애노테이션과 리플렉션](#애노테이션과-리플렉션)
+  - [Index](#index)
+  - [애노테이션 선언과 적용](#애노테이션-선언과-적용)
+    - [애노테이션 적용](#애노테이션-적용)
+      - [애노테이션 문법](#애노테이션-문법)
+    - [애노테이션 대상](#애노테이션-대상)
+    - [애노테이션을 활용한 JSON 직렬화 제어](#애노테이션을-활용한-json-직렬화-제어)
+    - [애노테이션 선언](#애노테이션-선언)
+    - [메타애노테이션: 애노테이션을 처리하는 방법 제어](#메타애노테이션-애노테이션을-처리하는-방법-제어)
+    - [애노테이션 파라미터 클래스 사용](#애노테이션-파라미터-클래스-사용)
+    - [애노테이션 파라미터로 제네릭 클래스 받기](#애노테이션-파라미터로-제네릭-클래스-받기)
+  - [리플렉션: 실행 시점에 코틀린 객체 내부 관찰](#리플렉션-실행-시점에-코틀린-객체-내부-관찰)
+    - [코틀린 리플렉션 API: KClass, KCallable, KFunction, KProperty](#코틀린-리플렉션-api-kclass-kcallable-kfunction-kproperty)
+      - [KClass](#kclass)
+      - [KCallable](#kcallable)
+      - [KFunction](#kfunction)
+      - [KProperty](#kproperty)
+  - [요약](#요약)
+
+<!-- /code_chunk_output -->
+
 
 ## 애노테이션 선언과 적용
 
